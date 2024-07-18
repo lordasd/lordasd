@@ -1,7 +1,9 @@
 <h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me...</h1>
 
 ## I'm A Computer Science Graduate, Developer, and Continuous Learner!
+
 <img align="right" alt="GIF-1" width="350px" height="350px" src="https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif" />
+
 - 👨‍💻 Hey, I'm David Zaydenberg, a passionate Computer Science graduate with hands-on experience in software development, web technologies, and game development.
 - 🎓 B.Sc. in Computer Science from Hadassah Academic College, Jerusalem (2021-2024)
 - 💼 Previous experience as an IT Help Desk Representative and Technical Support Engineer

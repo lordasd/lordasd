@@ -23,9 +23,9 @@
 - 🛠️ Tools: SFML, Box2D, Unity, Blender
 
 ### Cyber Security Expertise:
-🛡️ Proficient in SIEM tools (AlienVault, ELK), network security (Pfsense, Wireshark), and system hardening
-🔍 Experienced in threat detection, including password cracking, SQL injection, and SSH/RDP hijacking
-🔐 Skilled in security analysis, log parsing, and forensics using tools like Volatility and HxD
+- 🛡️ Proficient in SIEM tools (AlienVault, ELK), network security (Pfsense, Wireshark), and system hardening
+- 🔍 Experienced in threat detection, including password cracking, SQL injection, and SSH/RDP hijacking
+- 🔐 Skilled in security analysis, log parsing, and forensics using tools like Volatility and HxD
 
 ### Check out my projects and let's connect!
 

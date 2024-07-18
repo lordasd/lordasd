@@ -34,3 +34,8 @@
 - 📧 Email: Davidzdbr@gmail.com
 
 Feel free to explore my repositories and projects. I'm always open to collaboration and learning opportunities!
+
+<hr>
+<h2>📊 GitHub Stats</h1>
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=lordasd&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=contribs,prs)

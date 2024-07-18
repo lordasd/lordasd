@@ -31,5 +31,6 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
 - 🐙 [GitHub](https://github.com/lordasd)
+- 📧 Email: Davidzdbr@gmail.com
 
 Feel free to explore my repositories and projects. I'm always open to collaboration and learning opportunities!

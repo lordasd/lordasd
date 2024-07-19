@@ -2,7 +2,7 @@
 
 ## I'm A Computer Science Graduate, Developer, and Continuous Learner!
 
-<img align="right" alt="GIF-1" width="300px" height="300px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="GIF-1" width="350px" height="300px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - 👨‍💻 Hey, I'm David Zaydenberg, a passionate Computer Science graduate with hands-on experience in software development, web technologies, and game development.
 - 🎓 B.Sc. in Computer Science from Hadassah Academic College, Jerusalem (2021-2024)

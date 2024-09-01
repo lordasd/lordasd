@@ -4,7 +4,7 @@
 
 <img align="right" alt="GIF-1" width="350px" height="300px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 👨‍💻 Hey, I'm David Zaydenberg, a passionate Computer Science graduate with hands-on experience in software development, web technologies, and game development.
+- 👨‍💻 Computer Science graduate with a GPA of 90, possessing a strong foundation in software development, web technologies, and game development. Experienced in full-stack development, API integration, and cybersecurity, with proven analytical skills demonstrated through the development and implementation of 3D games and e-commerce platforms.
 - 🎓 B.Sc. in Computer Science from Hadassah Academic College, Jerusalem (2021-2024)
 - 💼 Previous experience as an IT Help Desk Representative and Technical Support Engineer
 - 🌐 Fluent in English, Hebrew, and Russian

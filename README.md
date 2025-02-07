@@ -18,9 +18,9 @@
 ### Technical Skills:
 
 - 💻 Languages: C/C++, C#, Python, Java, JavaScript, TypeScript, R, Assembly x86-64
-- 🌐 Web: HTML, Bootstrap, React, Angular, Express.js, Spring Boot
+- 🌐 Web: HTML&CSS, Bootstrap, React, React-Native, Express.js, Spring Boot
 - 🗃️ Databases: SQLite, PostgreSQL, MongoDB, GraphQL
-- 🛠️ Tools: SFML, Box2D, Unity, Blender, Git, Docker, GCP, AWS
+- 🛠️ Tools: SFML, Unity, Blender, Git, Docker, GCP
 - 📊 Big Data: Apache Spark, DuckDB, PySpark
 - 🔐 Cyber Security: Security Frameworks, Cyber Attack Techniques, Log Analysis Tools
 

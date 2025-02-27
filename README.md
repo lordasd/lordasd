@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me...</h1>
 
-## I'm A Computer Science Graduate, Developer, and Continuous Learner!
+## Full Stack Developer and a Computer Science Graduate, and Continuous Learner!
 
 <img align="right" alt="GIF-1" width="350px" height="300px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 

@@ -37,6 +37,7 @@ Full stack developer with hands-on experience building responsive web applicatio
 ### Connect
 
 - **LinkedIn:** [David Zaydenberg](https://www.linkedin.com/in/yourprofile)
+- **Portfolio** https://david-zaydenberg.vercel.app/
 - **GitHub:** [lordasd](https://github.com/lordasd)
 - **Email:** DavidZDBR@gmail.com
 
